@@ -3,5 +3,5 @@
 
 - [My Personal Website](www.benfsloan.com "benfsloan.com")
 
-## Some of my projects
+## My Projects
 - [Raddle.net](https://www.raddle.net/ "Raddle.net")
