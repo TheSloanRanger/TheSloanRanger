@@ -1,5 +1,6 @@
 
 # My Projects
+- [Bask.it](https://github.com/puddles31/quackathon-2024) - Dundee Hackathon 2024 BlackRock Winners - We created a financial accessibility tool for BlackRock 
 - [NCR ATM Finder](https://github.com/Nintails-TF/ncr-agile-wombo) - Group university coursework for NCR during the Agile-Software-Engineering module
 - [My Personal Website](https://www.benfsloan.com/ "benfsloan.com") - Personal portfolio
 - [Raddle.net](https://www.raddle.net/ "Raddle.net") - Full stack web application using NextJS, Google App Engine and Firestore
