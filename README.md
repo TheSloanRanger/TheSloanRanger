@@ -1,5 +1,6 @@
 
 # My Projects
+- [Lobbio](https://lobbio.app) - A mobile app which connects you to the events, groups and businesses in your local area!
 - [Bask.it](https://github.com/puddles31/quackathon-2024) - Dundee Hackathon 2024 BlackRock Winners - Financial Accessibility Web App
 - [NCR ATM Finder](https://github.com/Nintails-TF/ncr-agile-wombo) - Group university coursework for NCR during the Agile-Software-Engineering module
 - [My Personal Website](https://www.benfsloan.com/ "benfsloan.com") - Personal portfolio
